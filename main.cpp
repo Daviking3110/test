@@ -14,7 +14,7 @@ Compilateur : Mingw-w64 g++ 8.1.0
 using namespace std;
 
 int main() {
-int a=36;
+int a=36+2;
 cout << a ;
 return EXIT_SUCCESS;
 }
